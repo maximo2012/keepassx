@@ -2,6 +2,8 @@
 
 ## About
 
+## Fork to local folder sync to MEGA Cloud.
+
 KeePassX is an application for people with extremely high demands on secure personal data management.
 It has a light interface, is cross platform and published under the terms of the GNU General Public License.
 
